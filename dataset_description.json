@@ -2,7 +2,7 @@
     "Name": "Shanxi Enculturation",
     "BIDSVersion": "1.8.0",
     "DatasetType": "raw",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Sean Paulsen",
         "Michael A. Casey"
@@ -14,7 +14,7 @@
     "ReferencesAndLinks": [
         "https://digitalcommons.dartmouth.edu/dissertations/173/"
     ],
-    "DatasetDOI": "",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004866.v1.0.0",
     "SourceDatasets": [],
     "GeneratedBy": [
         {
